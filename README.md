@@ -3,7 +3,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+%7C+Flask+%7C+React;Automation+%26+AI-powered+pipelines;PDF+%26+document+data+extraction;Building+bots+that+work+while+I+sleep+🤖" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+%7C+Flask+%7C+React;Automation+%26+AI-powered+pipelines;PDF+%26+document+data+extraction;Building+bots+that+work+while+I+sleep" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
@@ -19,10 +19,11 @@
 ### 🤖 [dev-notes](https://github.com/dhruvsavaliya-bot/dev-notes)
 A fully automated GitHub contribution system that fetches live content from **GitHub Trending**, **Dev.to**, and **Hacker News** APIs, then commits categorized developer notes daily — completely hands-free via Windows Task Scheduler.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhruvsavaliya-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhruvsavaliya-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvsavaliya-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 My Coding World:
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=dhruvsavaliya-bot&theme=dark&hide_border=false" alt="Streak" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvsavaliya-bot&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 📈 Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvsavaliya-bot&theme=react-dark&hide_border=false)](https://github.com/dhruvsavaliya-bot)
@@ -37,12 +38,6 @@ A fully automated GitHub contribution system that fetches live content from **Gi
 ![](https://github-contributor-stats.vercel.app/api?username=dhruvsavaliya-bot&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-![Snake animation](https://raw.githubusercontent.com/dhruvsavaliya-bot/dhruvsavaliya-bot/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 [![](https://komarev.com/ghpvc/?username=dhruvsavaliya-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
